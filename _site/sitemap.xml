@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/jekyll/update/2023/11/16/welcome-to-jekyll.html</loc>
+<lastmod>2023-11-16T17:32:09+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2023/11/16/commence-par-g%C3%A9rer-ton-clavier.html</loc>
+<lastmod>2023-11-16T17:58:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+</urlset>
